@@ -1,0 +1,89 @@
+{"tokens": ["Need", "to", "schedule", "a", "quick", "sync", "with", "Marketing", "tomorrow", "afternoon", ",", "maybe", "3pm", "?"], "ner_tags": ["O", "O", "O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "B-DATE", "B-TIME", "O", "O", "B-TIME", "O"]}
+{"tokens": ["Add", "'Final", "Code", "Review'", "session", "for", "Friday", "10", "AM", "in", "Room", "Zeus"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "B-TIME", "I-TIME", "O", "B-LOC", "I-LOC"]}
+{"tokens": ["Can", "you", "put", "'Dentist", "Check-up'", "on", "my", "calendar", "for", "June", "18th", "at", "2:15", "PM", "?"], "ner_tags": ["O", "O", "O", "B-DESC", "I-DESC", "O", "O", "O", "O", "B-DATE", "I-DATE", "O", "B-TIME", "I-TIME", "O"]}
+{"tokens": ["Book", "a", "meeting", ":", "'Project", "Delta", "Update'", "next", "Wednesday", "morning", ",", "notify", "me", "1", "hour", "prior"], "ner_tags": ["O", "O", "O", "O", "B-DESC", "I-DESC", "I-DESC", "B-DATE", "I-DATE", "B-TIME", "O", "B-NOTIF", "I-NOTIF", "I-NOTIF", "I-NOTIF", "I-NOTIF"]}
+{"tokens": ["Set", "up", "'Lunch", "with", "Investor", "Group'", "for", "Thursday", "12:30", "PM", "at", "The", "Capital", "Grille"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "B-TIME", "I-TIME", "O", "B-LOC", "I-LOC", "I-LOC"]}
+{"tokens": ["Remember", "to", "'Submit", "Q2", "Report'", "by", "end", "of", "day", "Friday"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "B-TIME", "I-TIME", "I-TIME", "B-DATE"]}
+{"tokens": ["Log", "'Yoga", "Session'", "for", "tomorrow", "evening", "at", "7", "PM"], "ner_tags": ["O", "B-DESC", "I-DESC", "O", "B-DATE", "B-TIME", "O", "B-TIME", "I-TIME"]}
+{"tokens": ["Add", "event", ":", "'Company", "Picnic'", "July", "4th", "12pm", "-", "4pm", "at", "Green", "Lake", "Park"], "ner_tags": ["O", "O", "O", "B-DESC", "I-DESC", "B-DATE", "I-DATE", "B-TIME", "I-TIME", "B-TIME", "O", "B-LOC", "I-LOC", "I-LOC"]}
+{"tokens": ["Schedule", "'Performance", "Goal", "Setting'", "with", "manager", "next", "Tuesday", "afternoon"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC", "B-DATE", "I-DATE", "B-TIME"]}
+{"tokens": ["Put", "'Pick", "up", "suit", "from", "cleaners'", "on", "my", "tasks", "for", "this", "Friday", "after", "work"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "O", "O", "O", "B-DATE", "I-DATE", "B-TIME", "I-TIME"]}
+{"tokens": ["Need", "to", "add", "'Client", "Training", "-", "Module", "2'", "time", "block", "for", "Wed", "1-3pm"], "ner_tags": ["O", "O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "O", "O", "B-DATE", "B-TIME"]}
+{"tokens": ["Add", "'Check", "tire", "pressure'", "reminder", "for", "first", "Saturday", "of", "the", "month"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "O", "O", "B-DATE", "I-DATE", "I-DATE", "I-DATE", "I-DATE"]}
+{"tokens": ["Book", "'Car", "Wash'", "Sunday", "11", "AM", "at", "Shiny", "Auto", "Spa"], "ner_tags": ["O", "B-DESC", "I-DESC", "B-DATE", "B-TIME", "I-TIME", "O", "B-LOC", "I-LOC", "I-LOC"]}
+{"tokens": ["Schedule", "'UX", "Design", "Review'", "for", "Monday", "4pm"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "B-TIME"]}
+{"tokens": ["Add", "'Pay", "HOA", "dues'", "reminder", "for", "the", "10th", "monthly"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "O", "O", "B-DATE", "I-DATE", "B-DATE"]}
+{"tokens": ["Set", "up", "'Dinner", "with", "the", "Smiths'", "next", "Saturday", "7:30", "PM", "at", "their", "place"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "B-DATE", "I-DATE", "B-TIME", "I-TIME", "O", "B-LOC", "I-LOC"]}
+{"tokens": ["Add", "'Plan", "marketing", "campaign'", "task", "for", "next", "week's", "project", "block"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "O", "O", "B-DATE", "I-DATE", "B-DESC", "I-DESC"]}
+{"tokens": ["Schedule", "'Review", "Application", "-", "Candidate", "Jones'", "block", "for", "Friday", "afternoon"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "O", "B-DATE", "B-TIME"]}
+{"tokens": ["Put", "'Family", "Movie", "Night'", "on", "the", "calendar", "for", "Friday", "8", "PM"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "O", "O", "O", "O", "B-DATE", "B-TIME", "I-TIME"]}
+{"tokens": ["Add", "reminder", ":", "'Confirm", "flight", "check-in'", "24", "hours", "before", "departure"], "ner_tags": ["O", "O", "O", "B-DESC", "I-DESC", "I-DESC", "B-NOTIF", "I-NOTIF", "I-NOTIF", "B-DESC"]}
+{"tokens": ["Book", "'Follow-up", "Doctor", "Visit'", "for", "July", "22nd", "10:45", "AM"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "I-DATE", "B-TIME", "I-TIME"]}
+{"tokens": ["Schedule", "'Meeting", "with", "Finance", "re", ":", "Budget", "Variance'", "for", "Mon", "3", "PM"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "B-TIME", "I-TIME"]}
+{"tokens": ["Add", "'Finalize", "travel", "plans'", "task", "due", "EOD", "Wednesday"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "O", "O", "B-TIME", "B-DATE"]}
+{"tokens": ["Set", "up", "'Call", "with", "East", "Coast", "Team'", "Thursday", "8", "AM", "PST"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC", "B-DATE", "B-TIME", "I-TIME", "I-TIME"]}
+{"tokens": ["Put", "'Volunteer", "-", "Soup", "Kitchen'", "on", "calendar", "for", "Sunday", "10", "AM", "-", "1", "PM"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "O", "O", "B-DATE", "B-TIME", "I-TIME", "I-TIME", "B-TIME", "I-TIME"]}
+{"tokens": ["Add", "'Renew", "Gym", "Membership'", "reminder", "for", "end", "of", "August"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "O", "O", "B-DATE", "I-DATE", "I-DATE"]}
+{"tokens": ["Schedule", "'Product", "Roadmap", "Review'", "session", "Tuesday", "1", "PM"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "B-DATE", "B-TIME", "I-TIME"]}
+{"tokens": ["Book", "'Hair", "Color", "Appointment'", "for", "next", "Saturday", "2:30", "PM"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "I-DATE", "B-TIME", "I-TIME"]}
+{"tokens": ["Add", "'Prepare", "for", "client", "presentation'", "task", "for", "next", "week"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "O", "B-DATE", "I-DATE"]}
+{"tokens": ["Set", "reminder", ":", "'Take", "out", "compost'", "Sunday", "evening"], "ner_tags": ["O", "O", "O", "B-DESC", "I-DESC", "I-DESC", "B-DATE", "B-TIME"]}
+{"tokens": ["Schedule", "'New", "Vendor", "Onboarding'", "for", "next", "Mon", "11", "AM"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "I-DATE", "B-TIME", "I-TIME"]}
+{"tokens": ["Add", "'Order", "office", "supplies'", "reminder", "for", "this", "Friday"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "O", "O", "B-DATE", "I-DATE"]}
+{"tokens": ["Put", "'Attend", "Data", "Science", "Meetup'", "on", "calendar", "for", "Thurs", "6", "PM", "at", "Tech", "Hub"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "O", "O", "B-DATE", "B-TIME", "I-TIME", "O", "B-LOC", "I-LOC"]}
+{"tokens": ["Book", "'Annual", "Review", "with", "Dr.", "Anya'", "Dec", "1st", "9", "AM"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC", "B-DATE", "I-DATE", "B-TIME", "I-TIME"]}
+{"tokens": ["Change", "the", "'Sprint", "Planning'", "meeting", "to", "9:00", "AM", "instead", "of", "9:30"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "B-TIME", "I-TIME", "O", "O", "B-TIME"]}
+{"tokens": ["Move", "the", "'Client", "Strategy", "Session'", "from", "Monday", "to", "Tuesday", "same", "location"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "O", "B-DATE", "O", "O"]}
+{"tokens": ["Reschedule", "my", "'Check-in", "with", "Mentor'", "to", "next", "week", "afternoon"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "I-DATE", "B-TIME"]}
+{"tokens": ["Update", "the", "location", "for", "the", "'Team", "Offsite'", "to", "Lakeview", "Resort", "Center"], "ner_tags": ["O", "O", "O", "O", "O", "B-DESC", "I-DESC", "O", "B-LOC", "I-LOC", "I-LOC"]}
+{"tokens": ["Shift", "the", "'System", "Maintenance'", "window", "forward", "by", "1", "hour"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "O", "O", "O", "B-TIME", "I-TIME"]}
+{"tokens": ["Adjust", "the", "'Quarterly", "Business", "Review'", "duration", "to", "2", "hours"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "O", "B-TIME", "I-TIME"]}
+{"tokens": ["Change", "the", "attendees", "for", "the", "'Security", "Audit", "Debrief'"], "ner_tags": ["O", "O", "O", "O", "O", "B-DESC", "I-DESC", "I-DESC"]}
+{"tokens": ["Move", "the", "'Design", "Sprint", "Kickoff'", "to", "August", "1st"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "I-DATE"]}
+{"tokens": ["Reschedule", "the", "'Candidate", "Screening", "Call'", "for", "Wednesday", "11", "AM"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "B-TIME", "I-TIME"]}
+{"tokens": ["Update", "the", "Teams", "link", "in", "the", "'Cross-Functional", "Sync'", "invite"], "ner_tags": ["O", "O", "B-LOC", "I-LOC", "O", "O", "B-DESC", "I-DESC", "I-DESC"]}
+{"tokens": ["Shift", "my", "'Admin", "Tasks'", "block", "on", "Friday", "to", "the", "morning"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "O", "O", "B-DATE", "O", "B-TIME", "I-TIME"]}
+{"tokens": ["Change", "the", "title", "of", "the", "'Review", "Meeting'", "to", "'Project", "Gamma", "Status'"], "ner_tags": ["O", "O", "O", "O", "O", "B-DESC", "I-DESC", "O", "B-DESC", "I-DESC", "I-DESC"]}
+{"tokens": ["Move", "the", "'Happy", "Hour'", "location", "from", "'Downtown", "Bar'", "to", "'Rooftop", "Lounge'"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "O", "O", "B-LOC", "I-LOC", "O", "B-LOC", "I-LOC"]}
+{"tokens": ["Reschedule", "the", "'Board", "Dinner'", "to", "next", "month"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "O", "B-DATE", "I-DATE"]}
+{"tokens": ["Adjust", "the", "'New", "Hire", "Orientation'", "schedule", "for", "next", "week"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "O", "B-DATE", "I-DATE"]}
+{"tokens": ["Change", "the", "recurrence", "of", "the", "'Backup", "Database'", "task", "to", "daily", "at", "3", "AM"], "ner_tags": ["O", "O", "O", "O", "O", "B-DESC", "I-DESC", "O", "O", "B-DATE", "O", "B-TIME", "I-TIME"]}
+{"tokens": ["Move", "the", "'Software", "Release", "Go/No-Go'", "meeting", "to", "Monday", "EOD"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "B-TIME"]}
+{"tokens": ["Update", "the", "agenda", "for", "the", "'Architecture", "Review", "Board'", "meeting"], "ner_tags": ["O", "O", "O", "O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC"]}
+{"tokens": ["Shift", "the", "'User", "Research", "Synthesis'", "session", "to", "Friday"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "B-DATE"]}
+{"tokens": ["Change", "the", "duration", "of", "the", "'Code", "Kata'", "practice", "to", "1", "hour"], "ner_tags": ["O", "O", "O", "O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "B-TIME", "I-TIME"]}
+{"tokens": ["Move", "the", "'Marketing", "Budget", "Approval'", "event", "to", "Q3"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "O", "B-DATE"]}
+{"tokens": ["Reschedule", "the", "'On-Site", "Client", "Visit'", "to", "September"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "B-DATE"]}
+{"tokens": ["Update", "the", "conference", "room", "for", "the", "'Sales", "Training'", "session"], "ner_tags": ["O", "O", "B-LOC", "I-LOC", "O", "O", "B-DESC", "I-DESC", "I-DESC"]}
+{"tokens": ["Shift", "the", "'Data", "Analysis'", "work", "block", "earlier", "by", "30", "minutes"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "O", "O", "O", "O", "B-TIME", "I-TIME"]}
+{"tokens": ["Change", "the", "owner", "of", "the", "'Update", "Website", "Content'", "task"], "ner_tags": ["O", "O", "O", "O", "O", "B-DESC", "I-DESC", "I-DESC", "O"]}
+{"tokens": ["Move", "the", "'Team", "Retrospective'", "to", "the", "afternoon", "slot"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "O", "B-TIME", "I-TIME", "I-TIME"]}
+{"tokens": ["Reschedule", "the", "'Supplier", "Negotiation'", "meeting"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC"]}
+{"tokens": ["Update", "the", "Webex", "details", "for", "the", "'Quarterly", "Investor", "Call'"], "ner_tags": ["O", "O", "B-LOC", "I-LOC", "O", "O", "B-DESC", "I-DESC", "I-DESC"]}
+{"tokens": ["Shift", "the", "'Code", "Merge'", "deadline", "by", "one", "day"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "I-DATE"]}
+{"tokens": ["Change", "the", "description", "for", "the", "'Annual", "Company", "Party'", "event"], "ner_tags": ["O", "O", "O", "O", "O", "B-DESC", "I-DESC", "I-DESC", "O"]}
+{"tokens": ["Move", "the", "'Security", "Policy", "Review'", "meeting"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC"]}
+{"tokens": ["Reschedule", "my", "'Coffee", "Chat'", "with", "new", "hire"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC"]}
+{"tokens": ["Update", "the", "location", "for", "'Interview", "-", "Final", "Round'", "to", "Exec", "Conf", "Room"], "ner_tags": ["O", "O", "O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "B-LOC", "I-LOC", "I-LOC"]}
+{"tokens": ["Shift", "the", "'System", "Backup", "Verification'", "task", "time"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "O"]}
+{"tokens": ["Change", "the", "frequency", "of", "the", "'Check", "Server", "Status'", "reminder", "to", "hourly"], "ner_tags": ["O", "O", "O", "O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "O", "B-DATE"]}
+{"tokens": ["Cancel", "the", "'Friday", "Social", "Hour'", "this", "week"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "B-DATE", "I-DATE"]}
+{"tokens": ["Delete", "the", "'Draft", "Blog", "Post'", "reminder", "task"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "O"]}
+{"tokens": ["Remove", "the", "'Project", "Omega", "Weekly", "Sync'", "from", "my", "calendar"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "O", "O"]}
+{"tokens": ["Please", "cancel", "my", "'Massage'", "appointment", "on", "Tuesday"], "ner_tags": ["O", "O", "O", "B-DESC", "O", "O", "B-DATE"]}
+{"tokens": ["Erase", "the", "'Pay", "Rent'", "reminder", "for", "July", "1st"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "O", "O", "B-DATE", "I-DATE"]}
+{"tokens": ["Get", "rid", "of", "the", "'Morning", "Workout'", "session", "for", "Wednesday"], "ner_tags": ["O", "O", "O", "O", "B-DESC", "I-DESC", "O", "O", "B-DATE"]}
+{"tokens": ["Remove", "the", "'Quarterly", "Tax", "Payment'", "event"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O"]}
+{"tokens": ["Cancel", "the", "'Flight", "Confirmation", "NYC-LON'", "event"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O"]}
+{"tokens": ["Delete", "the", "recurring", "'Clean", "Gutters'", "reminder"], "ner_tags": ["O", "O", "O", "B-DESC", "I-DESC", "O"]}
+{"tokens": ["Remove", "the", "'Conference", "Registration", "Deadline'", "reminder"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O"]}
+{"tokens": ["Cancel", "the", "'Online", "Workshop", "-", "Part", "1'", "session", "next", "Monday"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "B-DATE", "I-DATE"]}
+{"tokens": ["Delete", "the", "'Check", "Smoke", "Detectors'", "task"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O"]}
+{"tokens": ["Remove", "the", "'Study", "Session", "-", "Physics'", "event", "for", "tonight"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "O", "B-DATE"]}
+{"tokens": ["Cancel", "the", "'Hotel", "Reservation", "-", "Chicago", "Trip'"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC"]}
+{"tokens": ["Delete", "the", "'Renew", "Library", "Books'", "reminder"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O"]}
+{"tokens": ["Remove", "the", "'Pilates", "Class'", "scheduled", "for", "tomorrow", "afternoon"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "O", "O", "B-DATE", "B-TIME"]}
+{"tokens": ["Cancel", "the", "'Meeting", "with", "Advisor'", "on", "Friday"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "B-DATE"]}
+{"tokens": ["Delete", "the", "'Update", "Antivirus'", "reminder"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "O"]}
+{"tokens": ["Remove", "'Eye", "Exam", "-", "Dr.", "Chen'", "from", "my", "schedule"], "ner_tags": ["O", "B-DESC", "I-DESC", "I-DESC", "I-DESC", "I-DESC", "O", "O", "O"]}
+{"tokens": ["Cancel", "the", "'Team", "Bowling", "Night'", "at", "'Pins", "&", "Ales'"], "ner_tags": ["O", "O", "B-DESC", "I-DESC", "I-DESC", "O", "B-LOC", "I-LOC", "I-LOC"]}

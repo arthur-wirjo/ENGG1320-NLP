@@ -1,0 +1,7 @@
+# requirements.txt
+transformers
+torch
+accelerate # Often useful with transformers
+sentencepiece # Often needed by tokenizers
+# Add pandas if you ended up using it elsewhere or for future needs
+# pandas

@@ -1,0 +1,406 @@
+text,label
+"Schedule a meeting with the marketing team next Tuesday at 3 PM",Add
+"Add dentist appointment for May 5th 10am",Add
+"Remind me to call mom tomorrow evening",Add
+"Change my 3 PM meeting to 4 PM",Edit
+"Reschedule the project sync to Friday morning",Edit
+"Move the team lunch scheduled for Wednesday",Edit
+"Cancel my appointment on Wednesday",Remove
+"Delete the reminder about the report submission",Remove
+"Remove the event 'Doctor Checkup'",Remove
+"Book a slot for the webinar next Monday at 11 AM EST",Add
+"Put 'Team Standup' on the calendar for 9 AM every weekday",Add
+"Need to add a haircut appointment for Saturday afternoon",Add
+"Update the location for the client meeting to their office",Edit
+"Shift the weekly review from 10 AM to 11 AM",Edit
+"Can we move the brainstorming session to Thursday?",Edit
+"Get rid of the 'Pay Bills' reminder for the 1st",Remove
+"Erase the 'Gym Session' event for tomorrow morning",Remove
+"Please cancel the reservation for Friday night",Remove
+"Set up a meeting with HR for next Wednesday 2pm, remind me 1 hour before",Add
+"Add 'Pick up dry cleaning' for this Friday after work",Add
+"Create an event: 'Anniversary Dinner' on July 20th at 7 PM at Luigi's",Add
+"Modify the 'Project Alpha' deadline to next Monday",Edit
+"Adjust the time for the coffee chat to 9:30 AM",Edit
+"Push the presentation rehearsal back by two hours",Edit
+"Remove the 'Jogging' event from my schedule",Remove
+"Delete the recurring meeting 'Budget Review'",Remove
+"Cancel the flight booking confirmation event",Remove
+"Schedule 'Performance Review' with Sarah for June 1st, 1 PM",Add
+"Add reminder: 'Water plants' every Sunday morning",Add
+"Book 'Yoga Class' for Tuesday 6 PM",Add
+"Change the attendees for the 'Design Sync' meeting",Edit
+"Reschedule my 1-on-1 with manager to tomorrow afternoon",Edit
+"Move the 'Code Freeze' deadline event",Edit
+"Cancel the 'Team Building Activity' for next month",Remove
+"Delete the 'Follow up with client X' task",Remove
+"Remove 'Volunteer Shift' from my calendar for this Saturday",Remove
+"Set a reminder to buy groceries on Saturday morning",Add
+"Add 'Doctor Appointment - Dr. Smith' for Aug 15th at 4 PM, location: 123 Health St.",Add
+"Schedule a call with the support team for tomorrow 10:30 AM PST",Add
+"Update the meeting notes link in the 'Project Kickoff' event",Edit
+"Change the duration of the workshop from 2 hours to 3 hours",Edit
+"Reschedule the interview scheduled for Thursday 11 AM",Edit
+"Please remove the 'Book Club Meeting'",Remove
+"Cancel the dentist check-up for next week",Remove
+"Delete the 'Submit Timesheet' reminder",Remove
+"Add 'Parent-Teacher Conference' for Nov 10th 5 PM",Add
+"Put 'Pay Rent' on the calendar for the 1st of next month, notify me 2 days prior",Add
+"Schedule 'Car Service' for next Friday morning",Add
+"Move the 'Sprint Planning' meeting to Tuesday 9 AM",Edit
+"Adjust the 'Client Demo' time slot",Edit
+"Change the location of the team offsite",Edit
+"Remove the 'Birthday Party' event",Remove
+"Cancel the 'Online Course Session' for tonight",Remove
+"Delete the 'Pick up prescription' reminder",Remove
+"Book a meeting with the legal team sometime next week",Add
+"Add 'Prepare presentation slides' task for Wednesday",Add
+"Set up 'Lunch with Alex' for Thursday at 12:30 PM at The Corner Cafe",Add
+"Update the description for the 'Product Launch Meeting'",Edit
+"Reschedule the 'Training Session' to the week after next",Edit
+"Shift my 'Focus Time' block from morning to afternoon",Edit
+"Cancel the 'Weekend Trip Plan' event",Remove
+"Remove the 'Clean the house' reminder",Remove
+"Delete the 'Call insurance company' task",Remove
+"Schedule 'Interview Candidate A' for Monday 3 PM, location: Zoom Link 123",Add
+"Add 'Renew Gym Membership' reminder for end of month",Add
+"Put 'Family Dinner' on the calendar for Sunday 6 PM",Add
+"Change the 'All Hands Meeting' from monthly to quarterly",Edit
+"Move the 'Design Review' earlier by an hour",Edit
+"Update the conference call number for the 'Sales Sync'",Edit
+"Cancel the 'Movie Night' plan",Remove
+"Delete the 'Return Library Books' reminder",Remove
+"Remove the 'Gardening' event for Saturday",Remove
+"Add 'Team Retro' for Friday 4 PM",Add
+"Schedule a 'Quick Sync' with Bob for tomorrow 11 AM",Add
+"Book 'Hair Appointment' for next Saturday 1 PM",Add
+"Reschedule the 'Client Follow-up Call'",Edit
+"Change the date for the 'Office Potluck'",Edit
+"Move the 'Database Maintenance' window",Edit
+"Cancel the 'Game Night' event",Remove
+"Delete the 'Check Mail' reminder",Remove
+"Remove the 'Study Session' block for tonight",Remove
+"Set up a 'Project Brainstorm' meeting for Wednesday afternoon",Add
+"Add 'Buy Birthday Gift' task for this weekend",Add
+"Schedule 'Coffee with Mentor' for next Tuesday 8 AM",Add
+"Update the agenda for the 'Board Meeting'",Edit
+"Shift the 'Deployment Window' to start later",Edit
+"Reschedule the 'User Testing Session'",Edit
+"Cancel the 'Charity Run' participation event",Remove
+"Delete the 'Pay Credit Card Bill' reminder",Remove
+"Remove the 'Meditation Time' from my daily schedule",Remove
+"Add 'Final Exam Study Group' for Thursday 7 PM",Add
+"Book 'Flight to London' event for Dec 5th",Add
+"Schedule 'Performance Calibration' meeting next month",Add
+"Change the 'Weekly Report Deadline' to EOD Friday",Edit
+"Move the 'Product Demo' to accommodate the client's timezone",Edit
+"Update the Zoom link for the 'Remote Team Sync'",Edit
+"Cancel the 'Subscription Renewal' reminder event",Remove
+"Delete the 'Plan Vacation' task",Remove
+"Remove the 'Language Class' for Wednesday evening",Remove
+"Add 'Prepare for Interview' block for tomorrow morning",Add
+"Set reminder: 'Call Grandma' on Sunday",Add
+"Schedule 'New Hire Onboarding' session for Monday 10 AM",Add
+"Reschedule the 'Code Review' session",Edit
+"Adjust the time for the 'Investor Update Call'",Edit
+"Change the recurring 'Team Lunch' day from Friday to Thursday",Edit
+"Cancel the 'Workshop Registration' event",Remove
+"Delete the 'Water the plants' reminder",Remove
+"Remove the 'Morning Run' event for tomorrow",Remove
+"Add 'Client Pitch Rehearsal' for Tuesday 2 PM",Add
+"Book 'Massage Appointment' for Friday 5 PM",Add
+"Schedule 'Check-in with Project Manager' for Wednesday 9:30 AM",Add
+"Update the location for the 'Company Picnic' event",Edit
+"Move the 'Server Patching' schedule",Edit
+"Reschedule the 'Financial Audit Meeting'",Edit
+"Cancel the 'Book Signing Event'",Remove
+"Delete the 'Charge Devices' reminder",Remove
+"Remove the 'Write Blog Post' task",Remove
+"Add 'Meet with Accountant' for April 10th 11 AM",Add
+"Set up 'Kids Soccer Practice' reminder every Saturday 9 AM",Add
+"Schedule 'Dentist Cleaning' for July 8th 3 PM",Add
+"Change the title of the 'Weekly Sync' to 'Project Phoenix Sync'",Edit
+"Shift the 'Happy Hour' event to start at 6 PM",Edit
+"Update the attendees list for the 'Steering Committee Meeting'",Edit
+"Cancel the 'Volunteer Training Session'",Remove
+"Delete the 'Take out trash' reminder",Remove
+"Remove the 'Yoga Class' event for this evening",Remove
+"Add 'Submit Expense Report' deadline for end of week",Add
+"Book 'Eye Exam' for next Monday afternoon",Add
+"Schedule 'Interview Candidate B' for Friday 10 AM, location: Room 4B",Add
+"Reschedule the 'Marketing Campaign Review'",Edit
+"Move the 'System Upgrade' window to overnight",Edit
+"Change the frequency of the 'Backup Reminder' to weekly",Edit
+"Cancel the 'Art Class' enrollment",Remove
+"Delete the 'Read Industry News' task",Remove
+"Remove the 'Piano Lesson' for Thursday",Remove
+"Add 'Final Project Due Date' for May 15th",Add
+"Set reminder: 'Confirm Dinner Reservation' for Saturday",Add
+"Schedule 'Quarterly Business Review' for next month's first Tuesday",Add
+"Update the meeting description for 'Feature Planning'",Edit
+"Adjust the 'Client Onboarding Call' time",Edit
+"Reschedule the 'Team Photo Session'",Edit
+"Cancel the 'Conference Call with Supplier'",Remove
+"Delete the 'Update Resume' task",Remove
+"Remove the 'Gym Workout' scheduled for 7 AM",Remove
+"Add 'Staff Meeting' for tomorrow 9 AM in the main conference room",Add
+"Book 'Weekend Getaway' placeholder for next month",Add
+"Schedule 'Follow-up Email' task for Friday morning",Add
+"Change the 'Project Kick-off' meeting to include the design team",Edit
+"Move the 'Security Audit' date",Edit
+"Update the Webex link for the 'Training Webinar'",Edit
+"Cancel the 'Networking Event' registration",Remove
+"Delete the 'Organize Files' reminder",Remove
+"Remove the 'Book Club Meeting' from my calendar",Remove
+"Add 'Oil Change Appointment' for Saturday 11 AM",Add
+"Set up 'Call with Parents' for Sunday evening",Add
+"Schedule 'Review Contract Draft' task for Wednesday",Add
+"Reschedule my 'Doctor Follow-up' appointment",Edit
+"Shift the 'Lunch Break' block later by 30 minutes",Edit
+"Change the location for the 'Interview Debrief' to online",Edit
+"Cancel the 'Team Dinner Reservation'",Remove
+"Delete the 'Pay Utility Bill' reminder",Remove
+"Remove the 'Morning Meditation' event",Remove
+"Add 'Client Proposal Deadline' for next Friday",Add
+"Book 'Theater Tickets' event for Saturday night",Add
+"Schedule 'Architecture Review' meeting for Thursday 1 PM",Add
+"Update the 'Sprint Review' time to 3 PM",Edit
+"Move the 'Code Deployment' to after business hours",Edit
+"Reschedule the '1-on-1 with Direct Report'",Edit
+"Cancel the 'Language Exchange Meetup'",Remove
+"Delete the 'Research Competitors' task",Remove
+"Remove the 'Evening Walk' event",Remove
+"Add 'Submit Timesheet' reminder for Friday 4 PM",Add
+"Set reminder: 'Pick up kids from school' daily at 3 PM",Add
+"Schedule 'Meeting with Vendor' for Tuesday 11:30 AM",Add
+"Change the 'Team Stand-up' duration to 15 minutes",Edit
+"Adjust the 'Client Check-in Call' schedule",Edit
+"Update the dial-in info for the 'Investor Relations Call'",Edit
+"Cancel the 'Pottery Class' session",Remove
+"Delete the 'Clean Desk' reminder",Remove
+"Remove the 'Group Study Session'",Remove
+"Add 'Plan Birthday Party' task for next week",Add
+"Book 'Annual Physical Exam' for September 1st",Add
+"Schedule 'User Feedback Session' for Friday afternoon",Add
+"Reschedule the 'Content Planning Meeting'",Edit
+"Move the 'Data Migration' task to the weekend",Edit
+"Change the recurring 'Bill Payment Reminder' date",Edit
+"Cancel the 'Company Town Hall' event",Remove
+"Delete the 'Review Meeting Minutes' task",Remove
+"Remove the 'Bike Ride' event for Sunday",Remove
+"Add 'Performance Review Self-Assessment' deadline",Add
+"Set up 'Game Night with Friends' for Saturday 8 PM",Add
+"Schedule 'Technical Deep Dive' session for Wednesday 10 AM",Add
+"Update the 'Product Roadmap Meeting' agenda",Edit
+"Shift the 'Maintenance Window' earlier",Edit
+"Reschedule the 'Job Interview (Candidate C)'",Edit
+"Cancel the 'Team Offsite Planning Meeting'",Remove
+"Delete the 'Send Thank You Notes' reminder",Remove
+"Remove the 'Morning Yoga' routine",Remove
+"Add 'Finalize Report' task for Thursday EOD",Add
+"Book 'Hotel Reservation' for conference next month",Add
+"Schedule 'Meeting with New Client' for Monday 9 AM, remind me 30 mins prior",Add
+"Change the 'Design Sprint' dates",Edit
+"Move the 'Weekly Sync with Manager' to Friday",Edit
+"Update the location for 'Team Lunch' to 'Park Cafe'",Edit
+"Cancel the 'Webinar Attendance' event",Remove
+"Delete the 'Check Voicemail' reminder",Remove
+"Remove the 'Creative Writing' block",Remove
+"Add 'Submit Vacation Request' task",Add
+"Set reminder: 'Charge electric car' tonight",Add
+"Schedule 'Demo Prep Meeting' for tomorrow 1 PM",Add
+"Reschedule the 'Budget Approval Meeting'",Edit
+"Adjust the time for the 'Cross-functional Sync'",Edit
+"Change the link for the 'Virtual Coffee Chat'",Edit
+"Cancel the 'Industry Conference Call'",Remove
+"Delete the 'Backup Hard Drive' reminder",Remove
+"Remove the 'Evening Jog' from schedule",Remove
+"Add 'Client Follow-up Call' for Tuesday 3:30 PM",Add
+"Book 'Train Ticket' for trip next week",Add
+"Schedule 'Onboarding Session - New Tools' for Thursday",Add
+"Update the 'Sprint Planning' participants",Edit
+"Move the 'System Test Phase' start date",Edit
+"Reschedule the 'Candidate Interview Debrief'",Edit
+"Cancel the 'Alumni Networking Event'",Remove
+"Delete the 'Review Code Submissions' task",Remove
+"Remove the 'Weekend Project Work' block",Remove
+"Add 'Doctor Visit - Annual Checkup' May 20th 9am",Add
+"Remind me to 'File Taxes' before April 15th",Add
+"Put 'Coffee Chat with Sarah' on calendar for Wed 8:30 AM",Add
+"Change 'Team Meeting' on Tuesday to 10 AM",Edit
+"Move 'Project Alpha Kickoff' to next Monday",Edit
+"Reschedule 'Client Demo' from 2 PM to 3 PM",Edit
+"Cancel 'Lunch with Mark' tomorrow",Remove
+"Delete 'Reminder: Submit Report'",Remove
+"Remove 'Gym Session' scheduled for Friday morning",Remove
+"Schedule 'Interview Prep' block for Thursday afternoon",Add
+"Add 'Pay electricity bill' reminder for the 25th",Add
+"Book 'Dinner Reservation' for 2 at 'The Italian Place' Saturday 7pm",Add
+"Update the time for the 'All-Hands Call' next week",Edit
+"Shift 'Code Review with Team Lead' to tomorrow 11 AM",Edit
+"Move the 'Deployment Checkpoint' meeting",Edit
+"Cancel the 'Yoga class' on Wednesday evening",Remove
+"Erase the 'Call back recruiter' reminder",Remove
+"Please remove the 'Volunteer shift' for Sunday",Remove
+"Set up a 'Planning Session' for the Q3 roadmap next Friday",Add
+"Add 'Grocery Shopping' to my list for Saturday morning",Add
+"Create event: 'Presentation Practice' Tuesday 4pm",Add
+"Modify the 'Client Check-in' call recurrence to bi-weekly",Edit
+"Adjust the 'Sprint Retro' time slot to 3:30 PM",Edit
+"Push back the 'Feature Launch Date' event by one week",Edit
+"Remove the 'Book Club' meeting for this month",Remove
+"Delete the 'Water office plant' reminder",Remove
+"Cancel the 'Team building lunch' scheduled next week",Remove
+"Schedule '1:1 with Maya' for Monday 2:30 PM",Add
+"Add reminder: 'Renew car registration' by end of month",Add
+"Book 'Flight LAX to JFK' Aug 10th",Add
+"Change the location of 'Interview - John Doe' to Room C",Edit
+"Reschedule 'Financial Planning Meeting' to June 5th",Edit
+"Move 'Weekly Status Update' meeting to 9 AM",Edit
+"Cancel 'Doctor Appointment' on the 15th",Remove
+"Delete 'Task: Follow up on email thread'",Remove
+"Remove 'Meditation block' from calendar",Remove
+"Set a reminder to 'Confirm hotel booking' tomorrow",Add
+"Add 'Prepare Q1 Report' task due next Friday",Add
+"Schedule 'Coffee meeting' with potential partner next Mon 10 AM",Add
+"Update the description for 'Project Zeta Sync'",Edit
+"Shift the 'Server Maintenance' window to Sunday morning",Edit
+"Reschedule the 'User Acceptance Testing' phase",Edit
+"Please cancel the 'Conference ticket purchase' reminder",Remove
+"Delete the 'Charge Fitbit' reminder",Remove
+"Remove the 'Language lesson' for Tuesday",Remove
+"Add 'Team Brainstorming Session' Wed 1pm Conf Room B",Add
+"Book 'Haircut' for Sat 11:30 AM",Add
+"Schedule 'Call with support vendor' Fri 9am PST",Add
+"Change 'Design Review' meeting owner to Emily",Edit
+"Move the 'Database backup' schedule to nightly",Edit
+"Update the Webex link for 'Remote Team Building'",Edit
+"Cancel the 'Gym membership renewal' reminder",Remove
+"Delete 'Organize cloud storage' task",Remove
+"Remove the 'Morning walk' event for tomorrow",Remove
+"Add 'Client Proposal Presentation' Thurs 2pm",Add
+"Set reminder: 'Buy anniversary gift' before the 18th",Add
+"Schedule 'Quarterly Performance Review' with manager",Add
+"Reschedule the 'Code Freeze milestone' event",Edit
+"Adjust the time for the 'Investor Demo'",Edit
+"Change the recurring 'Team Social Hour' to monthly",Edit
+"Cancel the 'Volunteer event signup' reminder",Remove
+"Delete the 'Check tire pressure' reminder",Remove
+"Remove the 'Study Japanese' block",Remove
+"Add 'Finalize presentation slides' task for Mon morning",Add
+"Book 'Annual Eye Exam' for July 1st 3pm",Add
+"Schedule 'Interview Candidate Jane Smith' Wed 10am Zoom",Add
+"Update the location for the 'Company All Hands' to Auditorium",Edit
+"Shift the 'Release Rollout' plan",Edit
+"Reschedule the 'Product Strategy Meeting'",Edit
+"Cancel the 'Subscription for Service X' reminder",Remove
+"Delete the 'Plan weekend activities' task",Remove
+"Remove the 'Evening coding practice' session",Remove
+"Add 'Meet with Financial Advisor' next Tuesday 4pm",Add
+"Set up 'Family video call' Sunday 11 AM EST",Add
+"Schedule 'Review marketing copy' task for tomorrow",Add
+"Change the title of the 'Sync Meeting' to 'Project Apollo Sync'",Edit
+"Move the 'Happy Hour' start time to 5:30 PM",Edit
+"Update the attendee list for 'Board Strategy Session'",Edit
+"Cancel the 'Training workshop enrollment' reminder",Remove
+"Delete the 'Take vitamins' reminder",Remove
+"Remove the 'Yoga session' scheduled for tonight",Remove
+"Add 'Submit Insurance Claim' task by Friday",Add
+"Book 'Veterinarian Appointment' for Fido next Mon 9:30 AM",Add
+"Schedule 'Candidate Debrief - Round 1' Thurs 11am",Add
+"Reschedule the 'Sales Kickoff Meeting'",Edit
+"Move the 'System Patching window' to Saturday",Edit
+"Change frequency of 'Check backups' reminder to daily",Edit
+"Cancel the 'Art gallery visit' plan",Remove
+"Delete the 'Read chapter 5' task",Remove
+"Remove the 'Guitar practice' block",Remove
+"Add 'Client contract signature deadline' May 31st",Add
+"Set reminder: 'Confirm flight details' for trip",Add
+"Schedule 'Monthly Business Review' for first Friday 10am",Add
+"Update meeting notes link in 'Project Planning' event",Edit
+"Adjust 'Client Training Session' time",Edit
+"Reschedule 'Team Photo Day'",Edit
+"Cancel 'Call with logistics partner'",Remove
+"Delete 'Update LinkedIn profile' task",Remove
+"Remove 'Morning run' scheduled for 7:30 AM",Remove
+"Add 'Staff Training Session' tomorrow 10 AM Training Room 1",Add
+"Book 'Weekend trip to mountains' placeholder",Add
+"Schedule 'Draft blog post' task for Wednesday afternoon",Add
+"Change 'Project Gamma Review' to include QA team",Edit
+"Move the 'Security Patch deployment' date",Edit
+"Update the Google Meet link for 'Virtual Team Lunch'",Edit
+"Cancel 'Networking breakfast registration'",Remove
+"Delete 'Organize bookshelf' reminder",Remove
+"Remove 'Book writing session' from calendar",Remove
+"Add 'Car inspection appointment' Saturday 9 AM",Add
+"Set up 'Call with sister' Sunday afternoon",Add
+"Schedule 'Review PRD document' task for Friday",Add
+"Reschedule 'Doctor check-up'",Edit
+"Shift 'Focus time block' earlier by 1 hour",Edit
+"Change location for 'Candidate Interview feedback session' to online",Edit
+"Cancel 'Team Bowling Night'",Remove
+"Delete 'Pay rent reminder'",Remove
+"Remove 'Afternoon walk' event",Remove
+"Add 'Client report deadline' next Wednesday",Add
+"Book 'Concert tickets' event for Friday night",Add
+"Schedule 'Infrastructure Planning' meeting Thursday 3 PM",Add
+"Update 'Sprint Demo' time to 4 PM",Edit
+"Move 'Software Update rollout' to non-peak hours",Edit
+"Reschedule '1-on-1 with Bob'",Edit
+"Cancel 'Language tutor session'",Remove
+"Delete 'Research vacation destinations' task",Remove
+"Remove 'Evening meditation' event",Remove
+"Add 'Submit expense approval' reminder for Thursday 5 PM",Add
+"Set reminder: 'Pick up dry cleaning' Friday after 5 PM",Add
+"Schedule 'Meeting with new supplier' Tuesday 10:30 AM",Add
+"Change 'Daily Stand-up' duration to 10 minutes",Edit
+"Adjust 'Client onboarding schedule'",Edit
+"Update dial-in number for 'Quarterly Results Call'",Edit
+"Cancel 'Museum visit' plan",Remove
+"Delete 'Clean keyboard' reminder",Remove
+"Remove 'Group workout session'",Remove
+"Add 'Plan team offsite agenda' task for next week",Add
+"Book 'Annual dentist appointment' for October 5th",Add
+"Schedule 'User interview session' Friday 11 AM",Add
+"Reschedule 'Marketing strategy meeting'",Edit
+"Move 'Data center maintenance' to next weekend",Edit
+"Change recurring 'Pay bills reminder' date to 28th",Edit
+"Cancel 'Company holiday party planning meeting'",Remove
+"Delete 'Review presentation feedback' task",Remove
+"Remove 'Bike maintenance' event for Saturday",Remove
+"Add 'Performance goals discussion' with manager deadline",Add
+"Set up 'Movie night at home' for Friday 9 PM",Add
+"Schedule 'Security audit review' meeting Wednesday 11 AM",Add
+"Update 'Product launch checklist meeting' agenda",Edit
+"Shift 'System upgrade window' earlier in the day",Edit
+"Reschedule 'Job Interview (Candidate Patel)'",Edit
+"Cancel 'Team volunteer day planning'",Remove
+"Delete 'Send birthday card' reminder",Remove
+"Remove 'Morning journaling' routine",Remove
+"Add 'Finalize budget proposal' task for Tuesday EOD",Add
+"Book 'Spa appointment' for relaxation next month",Add
+"Schedule 'Meeting with potential investor' Monday 11 AM, remind me 1 hour before",Add
+"Change 'Design critique session' dates",Edit
+"Move 'Weekly report submission time' to Friday noon",Edit
+"Update location for 'Team strategy session' to 'Offsite Venue X'",Edit
+"Cancel 'Webinar registration reminder'",Remove
+"Delete 'Check email backlog' reminder",Remove
+"Remove 'Creative brainstorming' block",Remove
+"Add 'Submit conference abstract' task deadline",Add
+"Set reminder: 'Charge headphones' before gym",Add
+"Schedule 'Sales demo practice' for tomorrow 2 PM",Add
+"Reschedule 'Audit committee meeting'",Edit
+"Adjust time for 'Global team sync' call",Edit
+"Change link for 'Online yoga class'",Edit
+"Cancel 'Industry meetup attendance'",Remove
+"Delete 'Backup photos' reminder",Remove
+"Remove 'Evening reading time' from schedule",Remove
+"Add 'Client contract renewal discussion' Tuesday 4:30 PM",Add
+"Book 'Train ticket to Boston' for next month's conference",Add
+"Schedule 'Onboarding buddy check-in' for Thursday morning",Add
+"Update 'Sprint retrospective' participants list",Edit
+"Move 'System integration testing' start date forward",Edit
+"Reschedule 'Candidate final round interview'",Edit
+"Cancel 'Alumni committee meeting'",Remove
+"Delete 'Review competitor website' task",Remove
+"Remove 'Weekend coding project' block",Remove
